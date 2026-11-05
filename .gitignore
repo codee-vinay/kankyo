@@ -1,0 +1,7 @@
+/kankyo
+/kankyo.exe
+/report*.json
+/.kankyo-report-*.tmp
+/dist/
+coverage.out
+*.test
